@@ -56,9 +56,9 @@ Assure-toi d’avoir :
 
 1. Ouvre VS Code
 2. Clique sur Clone Git Repository sur la page d'accueil.
-4. Colle l’URL GitHub : 
-5. Choisis un dossier de destination.
-6. VS Code propose d’ouvrir le dossier → clique sur Open.
+4. Colle l’URL GitHub : https://github.com/STICH-AKKODIS/OnboardingGit.github
+6. Choisis un dossier de destination.
+7. VS Code propose d’ouvrir le dossier → clique sur Open.
 
 ➡️ Le dépôt est maintenant en local.
 
